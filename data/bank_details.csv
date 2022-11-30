@@ -1,0 +1,31 @@
+Sr. No,Name of the Bank,Branches,Establishment,Headquarter,Symbol,Type
+1,Axis Bank,4528,1993,"Mumbai, Maharashtra",AXISBANK.NS,Private
+2,Bandhan Bank,670+,2015,"Kolkata, West Bengal",BANDHANBNK.NS,Private
+3,City Union Bank,700+,1904,"Kumbakonam, Tamil Nadu",CUB.NS,Private
+4,D C B Bank,334,1930,"Mumbai, Maharashtra",DCBBANK.NS,Private
+5,Dhanlaxmi Bank,270+,1927,"Thrissur city, Kerala",DHANBANK.NS,Private
+6,Federal Bank,1284,1931,"Aluva, Kochi",FEDERALBNK.NS,Private
+7,H D F C Bank,5430,1994,"Mumbai, Maharashtra",HDFCBANK.NS,Private
+8,I C I C I Bank,5288,1994,"Mumbai, Maharashtra",ICICIBANK.NS,Private
+9,I D B I Bank,1892,1964,"Mumbai, Maharashtra",IDBI.NS,Private
+10,I D F C FIRST Bank,260,2015,"Mumbai, Maharashtra",IDFCFIRSTB.NS,Private
+11,IndusInd Bank,2000,1994,"Pune, Maharashtra",INDUSINDBK.NS,Private
+12,Jammu & Kashmir Bank,1038,1938,"Srinagar, Jammu, and Kashmir",J&KBANK.NS,Private
+13,Karnataka Bank,857,1924,"Mangaluru, Karnataka",KTKBANK.NS,Private
+14,Karur Vysya Bank,779,1916,"Karur, Tamil Nadu",KARURVYSYA.NS,Private
+15,Kotak Mahindra Bank,1500+,2003,"Mumbai, Maharashtra",KOTAKBANK.NS,Private
+16,R B L Bank,398,1943,"Mumbai, Maharashtra",RBLBANK.NS,Private
+17,South Indian Bank,876,1929,"Thrissur, Kerala",SOUTHBANK.NS,Private
+18,YES Bank,1000+,2004,"Mumbai, Maharashtra",YESBANK.NS,Private
+19,State bank of India,,1955,Mumbai and Maharashtra,SBIN.NS,Public
+20,Punjab National Bank,,1894,New Delhi,PNB.NS,Public
+21,Bank of Baroda,,1908,Vadodara Gujrat,BANKBARODA.BO,Public
+22,Bank of India,,1906,Mumbai and Maharashtra ,BANKINDIA.NS,Public
+23,Bank of Maharashtra,,1935,Pune and Maharashtra ,MAHABANK.BO,Public
+24,Union Bank of India,,1919,Mumbai and Maharashtra,UNIONBANK.NS,Public
+25,Canara Bank,,1906,Bengaluru and Karnataka,CANBK.NS,Public
+26,Central Bank of India,,1911,Mumbai and Maharashtra,CENTRALBK.NS,Public
+27,Indian Bank,,1907,Chennai and Tamilnadu,INDIANB.NS,Public
+28,Indian Overseas Bank,,1937,Chennai and Tamilnadu,IOB.NS,Public
+29,Punjab & Sind bank,,1908,New Delhi,PSB.NS,Public
+30,UCO bank,,1943,Kolkata and West Bengal ,UCOBANK.NS,Public

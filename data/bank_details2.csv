@@ -1,0 +1,31 @@
+,Sr. No,Name of the Bank,Branches,Establishment,Headquarter,Symbol,Type,banker_name,n_firms
+0,1,Axis Bank,4528,1993,"Mumbai, Maharashtra",AXISBANK.NS,Private,AXIS BANK LTD.,390
+1,2,Bandhan Bank,670+,2015,"Kolkata, West Bengal",BANDHANBNK.NS,Private,BANDHAN BANK LTD.,1
+2,21,Bank of Baroda,,1908,Vadodara Gujrat,BANKBARODA.BO,Public,BANK OF BARODA,173
+3,22,Bank of India,,1906,Mumbai and Maharashtra ,BANKINDIA.NS,Public,BANK OF INDIA,138
+4,23,Bank of Maharashtra,,1935,Pune and Maharashtra ,MAHABANK.BO,Public,BANK OF MAHARASHTRA,29
+5,25,Canara Bank,,1906,Bengaluru and Karnataka,CANBK.NS,Public,CANARA BANK,133
+6,26,Central Bank of India,,1911,Mumbai and Maharashtra,CENTRALBK.NS,Public,CENTRAL BANK OF INDIA,63
+7,3,City Union Bank,700+,1904,"Kumbakonam, Tamil Nadu",CUB.NS,Private,CITY UNION BANK LTD.,9
+8,4,D C B Bank,334,1930,"Mumbai, Maharashtra",DCBBANK.NS,Private,D C B BANK LTD.,7
+9,5,Dhanlaxmi Bank,270+,1927,"Thrissur city, Kerala",DHANBANK.NS,Private,DHANLAXMI BANK LTD.,2
+10,6,Federal Bank,1284,1931,"Aluva, Kochi",FEDERALBNK.NS,Private,FEDERAL BANK LTD.,23
+11,7,H D F C Bank,5430,1994,"Mumbai, Maharashtra",HDFCBANK.NS,Private,H D F C BANK LTD.,511
+12,8,I C I C I Bank,5288,1994,"Mumbai, Maharashtra",ICICIBANK.NS,Private,I C I C I BANK LTD.,188
+13,9,I D B I Bank,1892,1964,"Mumbai, Maharashtra",IDBI.NS,Private,I D B I BANK LTD.,85
+14,10,I D F C FIRST Bank,260,2015,"Mumbai, Maharashtra",IDFCFIRSTB.NS,Private,I D F C FIRST BANK LTD.,9
+15,27,Indian Bank,,1907,Chennai and Tamilnadu,INDIANB.NS,Public,INDIAN BANK,63
+16,28,Indian Overseas Bank,,1937,Chennai and Tamilnadu,IOB.NS,Public,INDIAN OVERSEAS BANK,63
+17,11,IndusInd Bank,2000,1994,"Pune, Maharashtra",INDUSINDBK.NS,Private,INDUSIND BANK LTD.,48
+18,12,Jammu & Kashmir Bank,1038,1938,"Srinagar, Jammu, and Kashmir",J&KBANK.NS,Private,JAMMU & KASHMIR BANK LTD.,6
+19,13,Karnataka Bank,857,1924,"Mangaluru, Karnataka",KTKBANK.NS,Private,KARNATAKA BANK LTD.,14
+20,14,Karur Vysya Bank,779,1916,"Karur, Tamil Nadu",KARURVYSYA.NS,Private,KARUR VYSYA BANK LTD.,15
+21,15,Kotak Mahindra Bank,1500+,2003,"Mumbai, Maharashtra",KOTAKBANK.NS,Private,KOTAK MAHINDRA BANK LTD.,118
+22,29,Punjab & Sind bank,,1908,New Delhi,PSB.NS,Public,PUNJAB & SIND BANK,5
+23,20,Punjab National Bank,,1894,New Delhi,PNB.NS,Public,PUNJAB NATIONAL BANK,140
+24,16,R B L Bank,398,1943,"Mumbai, Maharashtra",RBLBANK.NS,Private,R B L BANK LTD.,25
+25,17,South Indian Bank,876,1929,"Thrissur, Kerala",SOUTHBANK.NS,Private,SOUTH INDIAN BANK LTD.,12
+26,19,State bank of India,,1955,Mumbai and Maharashtra,SBIN.NS,Public,STATE BANK OF INDIA,638
+27,30,UCO bank,,1943,Kolkata and West Bengal ,UCOBANK.NS,Public,UCO BANK,22
+28,24,Union Bank of India,,1919,Mumbai and Maharashtra,UNIONBANK.NS,Public,UNION BANK OF INDIA,123
+29,18,YES Bank,1000+,2004,"Mumbai, Maharashtra",YESBANK.NS,Private,YES BANK LTD.,69
