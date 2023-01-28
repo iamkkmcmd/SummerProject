@@ -6,14 +6,14 @@ graphics.off()
 library(tidyverse)
 library(readxl)
 
-# set the working directory
-setwd('D:/RKMVERI/S3/Term Project/')
+# Set working directory
+setwd("G:/Other computers/HP/SummerProject/notebook")
 
 # load the data
-data <- read.csv('./data/bank_details2.csv')
+data <- read.csv('./../data/bank_details2.csv')
 
 # source the custom theme code
-source('./notebook/custom_theme.R')
+source('./custom_theme.R')
 
 # head of the data
 data %>% head()
@@ -32,9 +32,23 @@ plot1 <- data %>%
   labs(x = '', y = 'Number of firms taken loan',
        title = 'Number of Company Undertaken by Bank') +
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.25))
-
+plot1
 ggsave(plot = plot1, filename = './img/plot/n_firms_under_bank.png', device = 'png', dpi = 150,
        height = 1080, width = 1920, units = 'px')
+
+data <- read.csv('./../data/banks_vulnerability.csv')
+
+data %>% 
+  filter(factor(Type), factor(vulnerable)) %>% 
+  n(Bank)
+
+data %>% 
+  ggplot(aes(x = reorder(Bank, -n_firms), y = n_firms, fill = Type)) +
+  geom_hline(yintercept = 50, color = 'gray') +
+  geom_bar(stat = 'identity') + custom_theme() +
+  labs(x = '', y = 'Number of firms taken loan',
+       title = 'Number of Company Undertaken by Bank') +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.25))
 
 # Plot2: Vulnerable bank (based on median value of MES)
 data2 <- read_xlsx('./data/task1_output.xlsx', sheet = 'public_b_result')
