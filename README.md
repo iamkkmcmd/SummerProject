@@ -3,7 +3,7 @@
 - A project report submitted for the partial fulfillment of the Master of Science in Big Data Analytics, RKMVERI, Belur Main Campus, Howrah.
 - Credit: [Krishnakanta Maity](https://github.com/iamkkmcmd), Reg No: B2130035, Department of Computer Science, RKMVERI, Howrah 
 - Time Span: **Aug'22 - Jan'23**
-- Method Used:  `EDA`  `Difference in Difference Regression`, `Panel Data Regression`, `DID Panel Data Regression`
+- Method Used:  `EDA` `Difference in Difference Regression` `Panel Data Regression` `DID Panel Data Regression`
 - Programming Language: R, Python
 - Technology: Jupyter Notebook, R Studio, Latex
 
