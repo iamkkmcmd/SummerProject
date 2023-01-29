@@ -1,9 +1,9 @@
 # About
-- Title of the project: **Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?**
+- Title: **Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?**
 - A project report submitted for the partial fulfillment of the Master of Science in Big Data Analytics, RKMVERI, Belur Main Campus, Howrah.
-- Submitted by [Krishnakanta Maity](https://github.com/iamkkmcmd), Reg No: B2130035, Department of Computer Science, RKMVERI, Howrah 
+- Credit: [Krishnakanta Maity](https://github.com/iamkkmcmd), Reg No: B2130035, Department of Computer Science, RKMVERI, Howrah 
 - Time Span: **Aug'22 - Jan'23**
-- Method Used: **EDA, Difference in Difference Regression, Panel data regression, DID panel data regression**
+- Method Used:  ```EDA, Difference in Difference Regression, Panel data regression, DID panel data regression ``` 
 - Programming Language: R, Python
 - Technology: Jupyter Notebook, R Studio, Latex
 
@@ -38,7 +38,8 @@ File structure of the project folder is given below. File names in each folder a
 |   ├── R and Jupyter Notebook
 ├── report
 |   ├── result_model
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## :star2: Credit/Acknowledgment
