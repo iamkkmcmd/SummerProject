@@ -1,5 +1,5 @@
 # About
-- Title: **Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?**
+- Title: [Does Bank Vulnerability Impact The Firm-Level Crash Risk During Economic Stress Period?](https://github.com/iamkkmcmd/SummerProject)
 - A project report submitted for the partial fulfillment of the Master of Science in Big Data Analytics, RKMVERI, Belur Main Campus, Howrah.
 - Credit: [Krishnakanta Maity](https://github.com/iamkkmcmd), Reg No: B2130035, Department of Computer Science, RKMVERI, Howrah 
 - Time Span: **Aug'22 - Jan'23**
